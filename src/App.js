@@ -84,15 +84,15 @@ class App extends Component {
     return (
       <div className="container">
         <Helmet>
-          <title>Jason Bao - Online Portfolio</title>
+          <title>Amy Chiu - Online Portfolio</title>
           <meta charset="utf-8" />
-          <meta id="og:author" property="og:author" content="Jason Bao" />
-          <meta name="author" content="Jason Bao" />
-          <meta name="description" content="Jason Bao - Online Portfolio" />
+          <meta id="og:author" property="og:author" content="Amy Chiu" />
+          <meta name="author" content="Amy Chiu" />
+          <meta name="description" content="Amy Chiu - Online Portfolio" />
         </Helmet>
         <Grid>
           <div className="name-container">
-            <h3>Jason Bao - Online Portfolio</h3>
+            <h3>Amy Chiu - Online Portfolio</h3>
           </div>
           <div className="education-container">
             <h3 className="page-header">Education</h3>
